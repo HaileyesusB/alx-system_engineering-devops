@@ -1,8 +1,8 @@
 #!/bin/bash
 ls -l
+pwd -p
 cd 
 ls
-pwd
 less
 file
 ln
