@@ -1,4 +1,2 @@
-cd 
-ls
 pwd
 
