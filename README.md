@@ -1,2 +1,3 @@
 #!bin/bash
 cd pwd ls
+task0 /tmp/correction/3949773069325953510651400865675460814733_5/205/57680/0x00-shell_basics
