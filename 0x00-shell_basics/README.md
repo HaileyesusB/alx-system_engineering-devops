@@ -1,3 +1,1 @@
-pwd
-#!bin/bash
-cd pwd ls
+task 0 pwd
