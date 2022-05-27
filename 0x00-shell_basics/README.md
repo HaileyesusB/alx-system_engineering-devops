@@ -1,1 +1,3 @@
-task 0 pwd /tmp/correction/3949773069325953510651400865675460814733_5/205/57680/0x00-shell_basics
+#!/bin/bash
+data_dir ="$(dirname$(dirname$(realpath $0)))/data"
+echo "DATA: $data_dir
