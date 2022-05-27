@@ -1,3 +1,1 @@
-Task-0 Where am I?
-#!/bin/bash
-pwd
+Learning shell scripts at school
